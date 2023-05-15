@@ -9,3 +9,5 @@ Some files are missing
 # Test from lab
 
 Lab changes
+
+Logged out
